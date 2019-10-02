@@ -10,24 +10,9 @@ module.exports = {
   pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
   // social
 
-  authorName: 'Jay Cuthrell',
-  authorHeading: 'Administrator',
+  authorName: 'The Cuthrell Foundation',
+  authorHeading: 'cuthrell.org',
   authorSocialLinks: [
-    {
-      icon: 'fa-github',
-      name: 'Github',
-      url: '',
-    },
-    {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: '',
-    },
-    {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: '',
-    },
     {
       icon: 'fa-envelope-o',
       name: 'Email',
