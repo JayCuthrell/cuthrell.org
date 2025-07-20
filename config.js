@@ -16,7 +16,7 @@ module.exports = {
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:jay@cuthrell.com?subject=cuthrell.org',
+      url: 'mailto:jay@cuthrell.org?subject=cuthrell.org',
     },
   ],
 };
